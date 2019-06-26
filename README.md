@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/azuredevops-demos/fceb89f9-92a6-4804-bafc-74eb2c709c8b/10296a0c-43aa-4594-896d-4f096f511d1e/_apis/work/boardbadge/15f64505-3f31-4b3d-b408-eb8f1b625f50)](https://dev.azure.com/azuredevops-demos/fceb89f9-92a6-4804-bafc-74eb2c709c8b/_boards/board/t/10296a0c-43aa-4594-896d-4f096f511d1e/Microsoft.RequirementCategory)
 
 
 
